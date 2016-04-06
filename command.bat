@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Git\bin\sh.exe" "C:\xampp\htdocs\nibobee-webinterface\src/../data/bats/command.bat.bat"

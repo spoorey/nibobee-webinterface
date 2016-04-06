@@ -1,0 +1,3 @@
+echo request set 6, 2 set 9, 20 set 7, 700 set 8, 710 > COM5
+
+Verhältnis Links:Rechts = 7:7.1

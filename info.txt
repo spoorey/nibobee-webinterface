@@ -1,0 +1,9 @@
+Register 3 (LED)
+10 = LED 1 & 3
+20 = LED 2
+5 = LED 0
+0 = keins leuchtet
+25 = LED 0 & 3
+30 = LED 1& 2 & 3
+35 = LED 0&1
+40 = LED 3
